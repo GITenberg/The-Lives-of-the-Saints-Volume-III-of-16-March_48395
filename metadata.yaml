@@ -1,4 +1,8 @@
 _repo: The-Lives-of-the-Saints-Volume-III-of-16-March_48395
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Baring-Gould, S. (Sabine)
@@ -11,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1766
     wikipedia: http://en.wikipedia.org/wiki/Sabine_Baring-Gould
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48395#The-Lives-of-the-Saints-Volume-III-of-16-March
 gutenberg_issued: '2015-03-01'
 gutenberg_type: Text
 identifiers:
